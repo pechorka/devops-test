@@ -26,8 +26,9 @@ go build -o bin/service
 ## Pipeline
 
 Pipeline содержит 3 stages:
-1)[test](#How-to-test) - тесты сервиса
-2)[build](#Hot-to-build) - компиляция сервиса
+
+1) [test](#How-to-test) - тесты сервиса
+2) [build](#Hot-to-build) - компиляция сервиса
 3) push
 
 ### Prod pipeline
